@@ -1,0 +1,5 @@
+{
+  "name": "UniGuide AI Student Support",
+  "description": "A comprehensive AI-powered chatbot designed for university students to handle queries about admissions, exams, and campus facilities using advanced intent recognition.",
+  "requestFramePermissions": []
+}
